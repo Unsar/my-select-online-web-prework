@@ -7,5 +7,3 @@ if yield(collection[i]) == true
 end
   i+=1
 end
-collection
-end
